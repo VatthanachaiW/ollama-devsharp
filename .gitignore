@@ -31,4 +31,6 @@ TestResults/
 *.coverage
 *.coveragexml
 
-.claude
+.claude/
+.vscode/
+CLAUDE.md
